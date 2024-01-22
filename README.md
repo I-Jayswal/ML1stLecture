@@ -1,3 +1,3 @@
 # ML1stLecture
-To get used to GIT.
-To understand PR
+To understand machine learning concepts.
+
