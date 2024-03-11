@@ -1,0 +1,17 @@
+              Algorithm     Feature Extractor  Accuracy
+0   Multinomial Naive Bayes - CountVectorizer  0.902098
+1          Multinomial Naive Bayes - Word2Vec  0.902098
+2           Multinomial Naive Bayes - Doc2Vec  0.902098
+3       Logistic Regression - CountVectorizer  0.905594
+4              Logistic Regression - Word2Vec  0.905594
+5               Logistic Regression - Doc2Vec  0.905594
+6                       SVM - CountVectorizer  0.678322
+7                              SVM - Word2Vec  0.678322
+8                               SVM - Doc2Vec  0.678322
+9             Decision Tree - CountVectorizer  0.891608
+10                   Decision Tree - Word2Vec  0.884615
+11                    Decision Tree - Doc2Vec  0.884615
+
+Best Result:
+         Algorithm     Feature Extractor  Accuracy
+0  Logistic Regression - CountVectorizer  0.905594
